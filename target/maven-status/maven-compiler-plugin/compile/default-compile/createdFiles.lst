@@ -1,0 +1,4 @@
+com\sueros_web\Bienestar\BienestarApplication.class
+com\sueros_web\Bienestar\repository\PacienteRepository.class
+com\sueros_web\Bienestar\model\Paciente.class
+com\sueros_web\Bienestar\controller\PacienteController.class
